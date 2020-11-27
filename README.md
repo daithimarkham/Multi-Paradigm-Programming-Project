@@ -11,12 +11,10 @@ Sometimes Github won't open Jupyter Notebook files. If Github won't open your fi
 https://nbviewer.jupyter.org/ 
 
 **Table of contents**
-- 
-- 
-- 
-- 
-- 
-- 
+- <a href="https://github.com/daithimarkham/Multi-Paradigm-Programming-Project/tree/main/c">C Program</a>
+- <a href="https://github.com/daithimarkham/Multi-Paradigm-Programming-Project/tree/main/python">Python Program</a>
+- <a href="https://github.com/daithimarkham/Multi-Paradigm-Programming-Project/tree/main/O.O.Prog.Python">Object Orientated Program</a>
+- <a href="https://github.com/daithimarkham/Multi-Paradigm-Programming-Project/blob/main/readme.txt">Report</a>
 
 
 ## Getting Started
